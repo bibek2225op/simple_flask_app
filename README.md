@@ -85,4 +85,4 @@ Same page → **Variables tab** → **New repository variable**.
 | `EC2_HOST` | Your EC2 public IP or domain, e.g. `54.123.45.67` |
 
 ---
-run 1
+run 11
